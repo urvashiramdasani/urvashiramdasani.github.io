@@ -14,7 +14,7 @@ layout: default
       <table class="table table-sm table-borderless">
         {% for post in page.posts %}
         <tr>
-          <th scope="row" style="color: pink">{{ post.date | date: "%b %-d, %Y" }}</th>
+          <th scope="row" style="color: #2698BA">{{ post.date | date: "%b %-d, %Y" }}</th>
           <td>
               <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </td>
