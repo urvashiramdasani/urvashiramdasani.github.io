@@ -8,8 +8,8 @@ nav: true
 
 Below mentioned are the events along with the role I volunteered:
 
-1. **Graphic Designer** -- *IEEE India Council* --- 2021/02 to Present.
-2. **Vice-Chairperson** -- *IEEE Student Branch Nirma University* --- 2021/01 to Present.
+1. **Graphic Designer** -- *IEEE India Council* --- 2021/02 to 2021/12.
+2. **Vice-Chairperson** -- *IEEE Student Branch Nirma University* --- 2021/01 to 2022/01.
 3. **WePOWER Track Volunteer** -- *IEEE YESIST'12* --- 2021/08 to 2021/10.
 4. **Student Branch Associate** -- *AISYWLC* --- 2020/11 to 2020/12.
 5. **Graphic Designer** -- *IEEE PELS SYPS 2021* --- 2020/08 to 2020/10.
