@@ -52,6 +52,7 @@ a {
 
 header {
     min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
     color: var(--color-white);
     overflow: hidden;
 }
@@ -216,6 +217,8 @@ section {
         p {
             margin: 1.5rem 0;
             line-height: 2rem;
+            text-align: justify;
+            text-justify: auto;
         }
     }
 }
@@ -723,3 +726,5 @@ h3 {
         pointer-events: none;
     }
 }
+
+@import './media';
